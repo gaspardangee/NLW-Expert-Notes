@@ -19,7 +19,7 @@
 <br>
 
 <!--<p align="center">
-  <img alt="Imagem de apresentação do projeto Expert Notes, mostrando o nome, a logo do evento, o projeto em si e porque foi desenvolvido, no caso o Pablo (poveii)" src=".github/presentation.jpg" width="100%" />
+  <img alt="" src=".github/presentation.jpg" width="100%" />
 </p>-->
 
 ## 🚀 Tecnologias
@@ -37,11 +37,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Expert Notes é uma aplicação de gerenciamento de notas pessoais, com a adição da SpeechRecognitionAPI nativa dos navegadores mais recentes para ouvir o que você fala para sair digitando para você! Muito massa né?
-
+<!--
 ## ✈️ Deploy
 
-Hospedado na Vercel, plataforma de deploy que eu recomendo. [Aqui o link!](https://poveii-nlw-expert-react.vercel.app/)
-
+Hospedado na Vercel
+-->
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com 💜 e ⚡ by Poveii
+Feito com 💜 e ⚡ by Gaspar Dange
